@@ -46,7 +46,7 @@ Open a new page for the end users osTicket URL: http://localhost/osTicket/. Clic
 <img width="829" height="813" alt="image" src="https://github.com/user-attachments/assets/417e3dae-6d40-4dd9-8b3c-7272d4ea5074" />
 </p>
 <p>
-In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be fixed when observing the ticket as a support agent). Entered the made up scenerio in the summary. Sumbit the ticket. Note: The email being used is fake and only for this tutorial.
+In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be fixed when observing the ticket as a support agent). Entered the made up scenerio in the summary. Submit the ticket. Note: The email being used is fake and only for this tutorial.
 </p>
 <br />
 
