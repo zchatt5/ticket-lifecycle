@@ -141,68 +141,8 @@ John acknowledged the users issue and provided a assessment. John worked through
 </p>
 <br />
 
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
+### End of Project
 
 <p>
-
+  This project deonstrates the work flow of a ticket. End-users send in a ticket that is then worked through with agents. Agents modify the ticket with SLAs, Departments, Priority, and who its assigned to for efficent solutions and good customer experience. Thats the end of my osTicket projects. Hope you enjoyed!
 </p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
-
-
