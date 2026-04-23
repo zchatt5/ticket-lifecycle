@@ -3,12 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. Using made up scenerios on how users create tickets and agents working tickets to completion by observing the issue, setting SLAs, and how to complete a ticket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,7 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -27,28 +22,184 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+### Setup:
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="351" alt="image" src="https://github.com/user-attachments/assets/0e88cbc5-2dc6-4aed-a831-dd811dcd2014" /> 
+<img width="956" height="363" alt="image" src="https://github.com/user-attachments/assets/d0df7b16-246d-4bd7-a8cc-4a287c6b63f9" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Delete the Maintenance Department. Admin Panel -> Agents -> Departments. Check Departments and Delete. This will ensure ticket flow and visibility and won't be routed to an unused department. 
+</p>
+<br />
+
+### Scenerio #1: Banking System is Down
+<p>
+<img width="835" height="479" alt="image" src="https://github.com/user-attachments/assets/3bc15452-42cc-4523-96e9-51e87b394d05" />
+</p>
+<p>
+Open a new page for the end users osTicket URL: http://localhost/osTicket/. Click Open a New Ticket. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="829" height="813" alt="image" src="https://github.com/user-attachments/assets/417e3dae-6d40-4dd9-8b3c-7272d4ea5074" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the creation of the new ticket I will use a fake end user called "karen". In the ticket as karen select the help topic as "General Inquiry / Other" (It should be business critical outage, but it will be fixed when observing the ticket as a support agent). Entered the made up scenerio in the summary. Sumbit the ticket. Note: The email being used is fake and only for this tutorial.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+
+</p>
+<br />
+
+
