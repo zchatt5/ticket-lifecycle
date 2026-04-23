@@ -51,42 +51,44 @@ In the creation of the new ticket I will use a fake end user called "karen". In 
 <br />
 
 <p>
-
+<img width="511" height="388" alt="image" src="https://github.com/user-attachments/assets/3728f4a3-c49d-489f-ad3a-8eea23b41f5c" />
 </p>
 <p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
+In the Admin login (http://localhost/osTicket/scp/login.php) we are going to login as john as a help desk agent. If you can't login as john look at the previous tutorial.
 
 </p>
 <br />
 
 <p>
-
+<img width="956" height="886" alt="image" src="https://github.com/user-attachments/assets/d815f4d1-00f6-4596-919c-f327b409021c" />
+<img width="951" height="325" alt="image" src="https://github.com/user-attachments/assets/2674b386-2f43-4a04-a9a9-c6e934c739e3" />
 </p>
 <p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
+Open the most recent ticket. Observe the properties of the ticket (Priotity, Department, SLA, etc.). Notice john is in "read only" mode and can't do much except make an internal note. Feel free to leave a note, but its not necessary for the rest of this scenerio.
 </p>
 <br />
 
 <p>
-
+<img width="951" height="570" alt="image" src="https://github.com/user-attachments/assets/75f5f51e-0a7b-4261-96d5-b38a85ec829e" />
 </p>
 <p>
+We now want to give John permissions to do more with the ticket. In the Admin Login page log back in as "adminuser". Navigate to Agent Panel -> Agents -> Agents -> John Doe -> Access. Give John "All access" and save changes.
+</p>
+<br />
 
+<p>
+<img width="952" height="785" alt="image" src="https://github.com/user-attachments/assets/64c19eb3-4836-43aa-96b8-6fa8ee21a655" />
+</p>
+<p>
+Login back as john and view the ticket again. Notice you can change and modify the ticket. Update the Prioity from "Normal" to "Emergency" as the entire banking system being down is a big issue and needs to be dealt with right away. Update SLA to "Sev-A" (Sev-A is 1 hour, 24/7). Update help topic from "General Inquiry / Other" to "Business Critical Outage".
+</p>
+<br />
+
+<p>
+<img width="950" height="76" alt="image" src="https://github.com/user-attachments/assets/6b43b08a-5284-4cc9-9c78-cd43f99379c4" />
+</p>
+<p>
+This issue may need someone else to work on it. Change the "Assigned to" to "Jane Doe" and Transfer the ticket to the Department of "SysAdmins". With the way Johns permissions are setup he will no longer have access to the ticket. 
 </p>
 <br />
 
