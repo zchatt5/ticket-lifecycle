@@ -104,7 +104,7 @@ Logout as john and login as jane. Open the ticket that was worked on as john. Ob
 <img width="956" height="273" alt="image" src="https://github.com/user-attachments/assets/c3e44898-d563-4a0c-8601-349c562c1bf6" />
 </p>
 <p>
-As jane we need to investigate and troubleshoot the issue, provide updates to the user, and close the ticket. I left 2 notes as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".  
+As jane we need to investigate and troubleshoot the issue, provide updates to the user, and close the ticket. I left 2 replies as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".  
 </p>
 <br />
 
@@ -116,27 +116,28 @@ Once the ticket is completed changed the status from "Open" to "Resolved".
 </p>
 <br />
 
+### Scenerio #2: Can't use Adobe Reader
 <p>
-
+<img width="830" height="954" alt="image" src="https://github.com/user-attachments/assets/eefea0d0-06c9-4724-a887-0d644ffdb4df" />
 </p>
 <p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
+Navigate to http://localhost/osTicket/ to open a new ticket as a end-user. Using a end-user called "Ken". Create a ticket that Adobe Reader is not working with the help topic as a "Personal Computer Issue". Create the ticket.
 </p>
 <br />
 
 <p>
-
+<img width="953" height="497" alt="image" src="https://github.com/user-attachments/assets/4405325a-4669-4a34-8545-4da655a101c9" />
 </p>
 <p>
+In the Admin login page login as "john" and observe the ticket and its properties (SLA, Priority, Department etc.). Updated Priority to High. Updated the SLA Plan to Sev-B (4 hours, 24/7) as its somewhat urgent to get done. John leaves a reply updating the end-user on whats going on.
+</p>
+<br />
 
+<p>
+<img width="951" height="254" alt="image" src="https://github.com/user-attachments/assets/add51fa7-957b-4191-8156-4e1c8861863a" />
+</p>
+<p>
+John acknowledged the users issue and provided a assessment. John worked through the problem and troubleshooted and found a solution. Communicated the plan to perform the solution. Being Honest and keeping the end-user updated to ensure a good experience and solution. Once the issue is resolved the end-user verified and john can now close the ticket. 
 </p>
 <br />
 
