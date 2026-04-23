@@ -102,18 +102,17 @@ Logout as john and login as jane. Open the ticket that was worked on as john. Ob
 
 <p>
 <img width="956" height="273" alt="image" src="https://github.com/user-attachments/assets/c3e44898-d563-4a0c-8601-349c562c1bf6" />
-<img width="948" height="85" alt="image" src="https://github.com/user-attachments/assets/9e60caf6-c8f4-4236-8078-0d15a1847667" />
 </p>
 <p>
-As jane we need to investigate and troubleshoot the issue, provide updates to the user, and resolve and close the ticket. I left 2 notes as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".  
+As jane we need to investigate and troubleshoot the issue, provide updates to the user, and close the ticket. I left 2 notes as "Jane" as she worked through the ticket. Once the ticket is completed changed the status from "Open" to "Resolved".  
 </p>
 <br />
 
 <p>
-
+<img width="948" height="85" alt="image" src="https://github.com/user-attachments/assets/9e60caf6-c8f4-4236-8078-0d15a1847667" />
 </p>
 <p>
-
+Once the ticket is completed changed the status from "Open" to "Resolved".  
 </p>
 <br />
 
